@@ -1,0 +1,11 @@
+# Core
+torch>=2.1.0          # install the CUDA wheel that matches your GPU / driver
+torchvision>=0.16.0
+
+# Scientific stack
+numpy>=1.24
+scipy>=1.11
+opencv-python>=4.10
+matplotlib>=3.8
+pillow>=10.3
+tqdm>=4.66            # nice progress‑bars (optional but handy)
